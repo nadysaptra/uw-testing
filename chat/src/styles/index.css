@@ -1,0 +1,29 @@
+.custom-border {
+    border-width: 3px!important;
+}
+
+.footer {
+    position: absolute;
+    bottom: 50px;
+    height: 70px;
+    background-color: #f5f5f5;
+    padding: 1rem;
+    width: 40%;
+}
+
+.message-list {
+    width: 40%;
+    height: 100vh !important;
+    float: right;
+    background-color: white;
+    border-top: 5px solid blue !important;
+    border-bottom: 5px solid blue !important;
+
+}
+
+.message-data {
+    margin-bottom: 0.25rem;
+}
+.message-profile {
+    margin-right: 0.5rem;
+}
